@@ -271,12 +271,10 @@
   grid-template-columns: repeat(3, 1fr);
   margin: 0 50px 82px;
   font-size: 18px;
-  line-height: 21.13px;
+  line-height: 24px;
 }
 
-.address-footer {
-  line-height: 24.3px;
-}
+
 
 .footer__menu-list {
   text-align: center;
