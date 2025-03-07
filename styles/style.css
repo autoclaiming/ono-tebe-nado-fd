@@ -38,15 +38,15 @@
 }
 
 .header__logo-image {
-  width: 135px;
-  height: 90px;
+  width: 148px;
+  height: 104px;
 }
 
 .header-address {
   justify-self: end;
   margin-right: 37.2px;
   font-style: normal;
-  line-height: 24.3px;
+  line-height: 24.4px;
 }
 
 /* COVER */
@@ -197,8 +197,11 @@
 }
 
 .lots__look-more-link {
+  display: inline-block;
   margin-top: 30px;
   margin-left: 40px;
+  font-size: 20px;
+  text-underline-position: under;
 }
 
 /* ABOUT */
